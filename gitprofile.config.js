@@ -2,27 +2,27 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'WanekNia', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 1, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    facebook: '',
-    instagram: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    linkedin: 'Nathan Wanecque',
+    twitter: 'NO!',
+    facebook: 'not have',
+    instagram: 'nope',
+    dribbble: 'nope',
+    behance: 'nope',
+    medium: 'WanekNia',
+    dev: 'WanekNia',
     stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.github.io',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    website: 'nope',
+    phone: '06.38.34.46.23',
+    email: 'nathan.wanecque@outlook.com',
   },
   resume: {
     fileUrl:
@@ -46,18 +46,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: '',
+      position: 'Lyon',
+      from: 'September 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: '',
+      position: '',
+      from: '',
+      to: '',
+      companyLink: '',
     },
   ],
   /* certifications: [
@@ -97,7 +97,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'business',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
