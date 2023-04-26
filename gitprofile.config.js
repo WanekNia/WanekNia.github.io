@@ -26,39 +26,48 @@ const config = {
     'C++',
     'C#',
     'Unreal Engine',
-    '',
+    'WPF',
+    'Computer Diagnostic',
+    'Hardware selling',
+    'computer adviser'
   ],
   experiences: [
     {
-      company: '',
-      position: 'Lyon',
-      from: 'September 2022',
-      to: 'Present',
+      company: 'Conforama after-sales service',
+      position: 'Cambrai - France',
+      from: 'September 2020',
+      to: 'October 2021',
       companyLink: '',
     },
     {
-      company: '',
-      position: '',
-      from: '',
-      to: '',
+      company: 'Public College Guillaume BUDE',
+      position: 'Maubeuge - France',
+      from: 'September 2021',
+      to: 'June 2021',
       companyLink: '',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
+      name: 'RNCP-4 "Technicien Assistance Informatique"',
       body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      year: '13/10/2021',
+      link: 'https://github.com/WanekNia/WanekNia.github.io/blob/main/RNCP-Wanek.pdf'
     },
-  ], */
+  ],
   education: [
     {
-      institution: 'Ynov',
-      degree: 'Bachelor',
+      institution: 'Lyon Ynov Campus',
+      degree: 'Bachelor 1',
       from: '2022',
-      to: '2023',
+      to: 'present',
     },
+    {
+      institution: 'GRETA Grand Hainaut',
+      degree: 'RNCP Niv4',
+      from: 'October 2019',
+      to: 'October 2020',
+    }, 
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
